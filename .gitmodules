@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mri"]
+	path = mri
+	url = https://github.com/cran/mri
+	shallow = true
+	registered = true
+[submodule "multiUS"]
+	path = multiUS
+	url = https://github.com/cran/multiUS
+	shallow = true
+	registered = true
+[submodule "nemBM"]
+	path = nemBM
+	url = https://github.com/cran/nemBM
+	shallow = true
+	registered = true
